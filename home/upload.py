@@ -13,7 +13,7 @@ def upload():
 
     count = 0
 
-    for i in words[:100000]:
+    for i in words[:10000]:
         print(count)
         word, length, frequency = i.split("-")
         count += 1
