@@ -1,1 +1,1 @@
-web: gunicorn EventStack.wsgi
+web: gunicorn Venmurasu_django.wsgi
