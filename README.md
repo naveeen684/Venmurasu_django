@@ -20,7 +20,7 @@ Note: The previous work shows how the date is scrapped and stored in different f
 
 1) git clone https://github.com/naveeen684/Venmurasu_django.git or directly download as zip file from this repo.
 2) cd Venmurasu_django
-3) pip install requirements.txt
+3) pip install -r requirements.txt
 4) python manage.py makemigrations
 5) python manage.py migrate
 To upload data to the database,
